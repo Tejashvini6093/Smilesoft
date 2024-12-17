@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Ram",
+      "rollNumber": "STU12345",
+      "attendance": "85",
+      "mathGrade": "A",
+      "englishGrade": "B",
+      "scienceGrade": "A",
+      "assignmentsCompleted": 12,
+      "assignmentsTotal": 15
+    },
+    {
+      "id": 2,
+      "name": "Sham",
+      "rollNumber": "STU67890",
+      "attendance": "90",
+      "mathGrade": "B",
+      "englishGrade": "A",
+      "scienceGrade": "B",
+      "assignmentsCompleted": 14,
+      "assignmentsTotal": 15
+    },
+    {
+      "id": 3,
+      "name": "Ravi",
+      "rollNumber": "STU54321",
+      "attendance": "92",
+      "mathGrade": "A",
+      "englishGrade": "b",
+      "scienceGrade": "A",
+      "assignmentsCompleted": 15,
+      "assignmentsTotal": 15
+    },
+    {
+      "id": 4,
+      "name": "Michael Green",
+      "rollNumber": "STU98765",
+      "attendance": "78",
+      "mathGrade": "C",
+      "englishGrade": "B",
+      "scienceGrade": "B",
+      "assignmentsCompleted": 10,
+      "assignmentsTotal": 15
+    }
+  ]
+  

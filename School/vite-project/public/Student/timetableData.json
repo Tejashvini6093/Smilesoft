@@ -1,0 +1,54 @@
+[
+  {
+    "section": "A",
+    "semester": "II",
+    "day": "Monday",
+    "date": "11/12/23",
+    "slots": [
+      { "time": "9:00 AM - 10:00 AM", "lecture": "Mathematics" },
+      { "time": "10:00 AM - 11:00 AM", "lecture": "Physics" },
+      { "time": "11:00 AM - 12:00 PM", "lecture": "Chemistry" },
+      { "time": "1:00 PM - 2:00 PM", "lecture": "Biology" },
+      { "time": "2:00 PM - 3:00 PM", "lecture": "English" }
+    ]
+  },
+  {
+    "section": "A",
+    "semester": "II",
+    "day": "Tuesday",
+    "date": "12/12/23",
+    "slots": [
+      { "time": "9:00 AM - 10:00 AM", "lecture": "Physics" },
+      { "time": "10:00 AM - 11:00 AM", "lecture": "Mathematics" },
+      { "time": "11:00 AM - 12:00 PM", "lecture": "Biology" },
+      { "time": "1:00 PM - 2:00 PM", "lecture": "Chemistry" },
+      { "time": "2:00 PM - 3:00 PM", "lecture": "History" }
+    ]
+  },
+  {
+    "section": "B",
+    "semester": "IV",
+    "day": "Wednesday",
+    "date": "13/12/23",
+    "slots": [
+      { "time": "9:00 AM - 10:00 AM", "lecture": "Economics" },
+      { "time": "10:00 AM - 11:00 AM", "lecture": "Accounting" },
+      { "time": "11:00 AM - 12:00 PM", "lecture": "Management" },
+      { "time": "1:00 PM - 2:00 PM", "lecture": "Marketing" },
+      { "time": "2:00 PM - 3:00 PM", "lecture": "Statistics" }
+    ]
+  },
+  {
+    "section": "B",
+    "semester": "IV",
+    "day": "Thursday",
+    "date": "14/12/23",
+    "slots": [
+      { "time": "9:00 AM - 10:00 AM", "lecture": "Management" },
+      { "time": "10:00 AM - 11:00 AM", "lecture": "Economics" },
+      { "time": "11:00 AM - 12:00 PM", "lecture": "Statistics" },
+      { "time": "1:00 PM - 2:00 PM", "lecture": "Accounting" },
+      { "time": "2:00 PM - 3:00 PM", "lecture": "Law" }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "section": "A",
+    "course": "Computer Science",
+    "rollNumber": "CS123456",
+    "examDate": "2024-12-15"
+  },
+  {
+    "name": "Jane Smith",
+    "section": "B",
+    "course": "Mathematics",
+    "rollNumber": "MA654321",
+    "examDate": "2024-12-16"
+  },
+  {
+    "name": "Alice Johnson",
+    "section": "C",
+    "course": "Physics",
+    "rollNumber": "PH987654",
+    "examDate": "2024-12-17"
+  }
+]
